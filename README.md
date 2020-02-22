@@ -1,2 +1,2 @@
 # DevOpsEssentials
-Execício de DevOps Essencials da 4Linux 
+Execício de DevOps Essentials da 4Linux 
